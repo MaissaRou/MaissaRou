@@ -47,7 +47,7 @@
 
 
 ## Mes statistiques Github    
-![Roumaissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=maissarou&count_private=true&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maissarou&layout=compact&theme=github_dark)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=maissarou&count_private=true&show_icons=true&theme=github_dark" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maissarou&layout=compact&theme=github_dark" />
   
 
