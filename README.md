@@ -17,9 +17,3 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a> 
 </div>
 <br/>
-
-
-## Mes statistiques Github    
-<img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=maissarou&count_private=true&show_icons=true&theme=github_dark" />
-<img align="right" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maissarou&layout=compact&theme=github_dark" />
-  
